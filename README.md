@@ -119,7 +119,3 @@ Workshop participants are encouraged to contribute their solutions, effective pr
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 - [Effective Prompting for GitHub Copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [GitHub Copilot for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
