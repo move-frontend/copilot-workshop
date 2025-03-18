@@ -69,7 +69,7 @@ copilot-workshop/
 │   ├── code-completions.md              # Basic code completion examples
 │   ├── copilot-chat.md                  # Chat functionality in IDEs
 │   ├── agent-mode.md                    # Agent mode capabilities
-│   ├── multi-file-editing.md            # Working across multiple files
+│   ├── multi-file-editing.md             # Working across multiple files
 │   └── github-web-integration.md        # Using Copilot on GitHub.com
 ├── exercises/                           # Hands-on activities
 │   ├── completions-exercise.md          # Basic code completion exercise
