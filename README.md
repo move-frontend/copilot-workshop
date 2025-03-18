@@ -49,8 +49,44 @@ The `resources` directory contains additional learning materials:
 
 1. Ensure you have [GitHub Copilot](https://github.com/features/copilot) enabled in your IDE
 2. Clone this repository to your local machine
-3. Follow the setup instructions in each exercise directory
-4. Start with the basic exercises and progress to more advanced challenges
+3. Review the setup guides in the `setup-guides` directory for your specific IDE
+4. Start with the basic exercises in the `exercises/basic` directory
+5. Progress to challenges in the `exercises/challenges` directory when ready
+6. Use the resources directory for reference materials and effective prompts
+
+## Repository Organization
+
+This workshop repository is designed as a comprehensive resource hub for learning GitHub Copilot:
+
+```
+copilot-workshop/
+├── README.md                            # Workshop overview and setup
+├── setup-guides/                        # Setup instructions for different IDEs
+│   ├── vscode.md                        # VS Code setup guide
+│   ├── jetbrains.md                     # JetBrains setup guide
+│   └── license-tiers.md                 # Information about different tiers
+├── features/                            # Feature documentation and examples
+│   ├── code-completions.md              # Basic code completion examples
+│   ├── copilot-chat.md                  # Chat functionality in IDEs
+│   ├── agent-mode.md                    # Agent mode capabilities
+│   ├── multi-file-editing.md            # Working across multiple files
+│   └── github-web-integration.md        # Using Copilot on GitHub.com
+├── exercises/                           # Hands-on activities
+│   ├── completions-exercise.md          # Basic code completion exercise
+│   ├── chat-exercise.md                 # Using Copilot Chat effectively
+│   ├── github-web-exercise.md           # GitHub.com integration exercise
+│   ├── github-exercises.md              # GitHub integration exercises
+│   └── dependency-audits.md             # GitHub Actions/Dependabot exercises
+└── resources/                           # Reference materials
+    ├── cheatsheet.md                    # Printable cheatsheet
+    ├── effective-prompts.md             # Collection of useful prompts
+    ├── video-references.md              # Links to official videos
+    └── real-world-examples.md           # Examples from actual projects
+```
+
+While examples focus primarily on TypeScript/JavaScript, the skills and techniques can be applied across different programming languages and disciplines, making this workshop valuable for Frontend, Backend, iOS, and Android developers alike.
+
+The repository utilizes both GitHub Wiki for structured documentation and GitHub Discussions for community engagement. Workshop participants can share insights, effective prompts, and interesting solutions through these channels.
 
 ## Prerequisites
 
