@@ -16,42 +16,56 @@ This workshop provides a hands-on exploration of GitHub Copilot capabilities, fr
 
 This repository is organized into the following sections:
 
-### Exercises (Step-by-Step Learning)
+### Exercises
 
-The `exercises` directory contains guided, step-by-step learning materials:
+The `exercises` directory contains focused, hands-on activities to build practical skills with GitHub Copilot:
 
-- **01-basic-completions**: Getting started with Copilot suggestions
-- **02-function-generation**: Creating functions with natural language prompts
-- **03-refactoring-techniques**: Using Copilot to improve existing code
-- **04-test-generation**: Generating comprehensive test suites
-- **05-documentation**: Creating documentation and comments with AI
+- **completions-exercise.md**: Master the art of basic code completions
+- **chat-exercise.md**: Learn to effectively use Copilot Chat for problem-solving
+- **github-web-exercise.md**: Explore Copilot features integrated with GitHub.com
+- **github-exercises.md**: Practice GitHub-specific integrations with Copilot
+- **dependency-audits.md**: Use Copilot with GitHub Actions and Dependabot
 
-Each exercise includes clear instructions, starter code in TypeScript, and expected outcomes. These exercises provide a foundation for working effectively with GitHub Copilot.
+Each exercise includes instructions and challenges designed to build proficiency with specific Copilot features.
 
-### Challenges (Problem-Solving Activities)
+### Features
 
-The `challenges` directory contains open-ended problem-solving activities:
+The `features` directory provides comprehensive documentation on Copilot's capabilities:
 
-- **employee-directory**: Build a company directory application
-- **algorithm-puzzles**: Solve algorithmic challenges with Copilot's help
-- **integration-challenges**: Create integrations with external services and APIs
+- **code-completions.md**: In-depth guide to Copilot's core suggestion capabilities
+- **copilot-chat.md**: How to leverage conversational AI for programming assistance
+- **agent-mode.md**: Advanced techniques for using Copilot as a virtual pair programmer
+- **multi-file-editing.md**: Working with Copilot across multiple files in your project
+- **github-web-integration.md**: Using Copilot features directly on GitHub.com
 
-Challenges are designed to be more flexible and can be completed in any programming language or platform.
+The features directory includes its own README with a comprehensive features overview and use cases matrix.
+
+### Setup Guides
+
+The `setup-guides` directory contains instructions for getting started:
+
+- **vscode.md**: Detailed Visual Studio Code setup instructions
+- **jetbrains.md**: JetBrains IDE configuration guide
+- **license-tiers.md**: Comprehensive breakdown of GitHub Copilot licensing options, from Free to Enterprise tiers
 
 ### Resources
 
 The `resources` directory contains additional learning materials:
 
-- **language-adaptation**: Guidelines for applying exercises in different programming languages
-- **prompts**: Collection of effective prompts for various development tasks
+- **cheatsheet.md**: Quick reference for Copilot commands and techniques
+- **effective-prompts.md**: Collection of useful prompts for various development tasks
+- **video-references.md**: Links to official tutorial videos
+- **real-world-examples.md**: Examples from actual projects
 
 ## Getting Started
 
 1. Ensure you have [GitHub Copilot](https://github.com/features/copilot) enabled in your IDE
 2. Clone this repository to your local machine
 3. Review the setup guides in the `setup-guides` directory for your specific IDE
-4. Start with the basic exercises in the `exercises/basic` directory
-5. Progress to challenges in the `exercises/challenges` directory when ready
+   - Check `license-tiers.md` to understand the Copilot subscription options
+   - Follow the setup instructions in `vscode.md` or `jetbrains.md`
+4. Explore the `features` directory to understand Copilot's capabilities
+5. Work through the exercises in the `exercises` directory
 6. Use the resources directory for reference materials and effective prompts
 
 ## Repository Organization
@@ -66,10 +80,11 @@ copilot-workshop/
 │   ├── jetbrains.md                     # JetBrains setup guide
 │   └── license-tiers.md                 # Information about different tiers
 ├── features/                            # Feature documentation and examples
+│   ├── README.md                        # Features overview and use cases
 │   ├── code-completions.md              # Basic code completion examples
 │   ├── copilot-chat.md                  # Chat functionality in IDEs
 │   ├── agent-mode.md                    # Agent mode capabilities
-│   ├── multi-file-editing.md             # Working across multiple files
+│   ├── multi-file-editing.md            # Working across multiple files
 │   └── github-web-integration.md        # Using Copilot on GitHub.com
 ├── exercises/                           # Hands-on activities
 │   ├── completions-exercise.md          # Basic code completion exercise
@@ -77,11 +92,12 @@ copilot-workshop/
 │   ├── github-web-exercise.md           # GitHub.com integration exercise
 │   ├── github-exercises.md              # GitHub integration exercises
 │   └── dependency-audits.md             # GitHub Actions/Dependabot exercises
-└── resources/                           # Reference materials
-    ├── cheatsheet.md                    # Printable cheatsheet
-    ├── effective-prompts.md             # Collection of useful prompts
-    ├── video-references.md              # Links to official videos
-    └── real-world-examples.md           # Examples from actual projects
+├── resources/                           # Reference materials
+│   ├── cheatsheet.md                    # Printable cheatsheet
+│   ├── effective-prompts.md             # Collection of useful prompts
+│   ├── video-references.md              # Links to official videos
+│   └── real-world-examples.md           # Examples from actual projects
+└── wiki-content/                        # Content for the GitHub Wiki
 ```
 
 While examples focus primarily on TypeScript/JavaScript, the skills and techniques can be applied across different programming languages and disciplines, making this workshop valuable for Frontend, Backend, iOS, and Android developers alike.
