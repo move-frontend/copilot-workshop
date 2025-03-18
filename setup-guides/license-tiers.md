@@ -109,4 +109,3 @@ For the most current and detailed information about GitHub Copilot licensing opt
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 - [GitHub Copilot Trust Center](https://github.com/features/copilot/trust)
 - [GitHub Education Benefits](https://education.github.com/) (For student/educator access)
-Û
