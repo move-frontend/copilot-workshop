@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/move4mobile/copilot-workshop#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.37.0"
+    "markdownlint-cli": "^0.37.0",
+    "prettier": "^3.5.3"
   }
 }
