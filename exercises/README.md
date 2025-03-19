@@ -4,15 +4,17 @@ This directory contains hands-on exercises to help you master GitHub Copilot's f
 
 ## Exercise Summary
 
-| Exercise                                           | Focus                                                  | Skill Level  | Time Estimate |
-| -------------------------------------------------- | ------------------------------------------------------ | ------------ | ------------- |
-| [Code Completions](./completions-exercise.md)      | Using Copilot's core inline suggestion capabilities    | Beginner     | 20-30 min     |
-| [Copilot Chat](./chat-exercise.md)                 | Leveraging conversational AI for code help             | Beginner     | 20-30 min     |
-| [Agent Mode](./agent-mode-exercise.md)             | Solving complex problems with contextual conversations | Intermediate | 30-45 min     |
-| [Multi-File Editing](./multi-file-exercise.md)     | Working with Copilot across project files              | Intermediate | 30-45 min     |
-| [GitHub Web Integration](./github-web-exercise.md) | Using Copilot on GitHub.com                            | Beginner     | 20-30 min     |
-| [Dependabot Exercise](./dependabot-exercise.md)    | Automating dependency management                       | Intermediate | 30-45 min     |
-| [Official Workshops](./official-workshops.md)      | Reference to GitHub's official workshop repositories   | Various      | N/A           |
+| Exercise                                                | Focus                                                  | Skill Level           | Time Estimate |
+| ------------------------------------------------------- | ------------------------------------------------------ | --------------------- | ------------- |
+| [Code Completions](./completions-exercise.md)           | Using Copilot's core inline suggestion capabilities    | Beginner              | 20-30 min     |
+| [Copilot Chat](./chat-exercise.md)                      | Leveraging conversational AI for code help             | Beginner              | 20-30 min     |
+| [Agent Mode](./agent-mode-exercise.md)                  | Solving complex problems with contextual conversations | Intermediate          | 30-45 min     |
+| [Multi-File Editing](./multi-file-exercise.md)          | Working with Copilot across project files              | Intermediate          | 30-45 min     |
+| [GitHub Web Integration](./github-web-exercise.md)      | Using Copilot on GitHub.com                            | Beginner              | 20-30 min     |
+| [GitHub Insights Prompts](./github-insights-prompts.md) | Repository analysis with Copilot on GitHub.com         | Beginner-Intermediate | 15-30 min     |
+| [Dependabot Exercise](./dependabot-exercise.md)         | Automating dependency management                       | Intermediate          | 30-45 min     |
+| [GitHub Insights Prompts](./github-insights-prompts.md) | Repository analysis with Copilot on GitHub.com         | Beginner-Intermediate | 15-30 min     |
+| [Official Workshops](./official-workshops.md)           | Reference to GitHub's official workshop repositories   | Various               | N/A           |
 
 ## Recommended Exercise Order
 

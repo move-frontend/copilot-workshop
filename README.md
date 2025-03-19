@@ -25,6 +25,7 @@ The `exercises` directory contains focused, hands-on activities to build practic
 - **github-web-exercise.md**: Explore Copilot features integrated with GitHub.com
 - **github-exercises.md**: Practice GitHub-specific integrations with Copilot
 - **dependency-audits.md**: Use Copilot with GitHub Actions and Dependabot
+- **github-insights-prompts.md**: Ready-to-use prompts for repository analysis with Copilot
 
 Each exercise includes instructions and challenges designed to build proficiency with specific Copilot features.
 
