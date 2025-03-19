@@ -1,0 +1,41 @@
+name: Feature Request
+description: Suggest a new exercise or resource for the workshop
+title: '[Feature]: '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new feature for the workshop!
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: What type of feature are you suggesting?
+      options:
+        - New exercise
+        - New resource document
+        - New setup guide
+        - Workshop structure improvement
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature Description
+      description: Describe the feature you'd like to see added
+      placeholder: I think the workshop would benefit from...
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Value Proposition
+      description: How would this feature benefit workshop participants?
+      placeholder: This would help participants better understand...
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation Ideas
+      description: Do you have any ideas on how this could be implemented?
+      placeholder: This could be implemented by...
