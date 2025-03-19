@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "Workshop materials for learning GitHub Copilot features and best practices",
   "private": true,
-  "scripts": {
-    "lint:md": "markdownlint \"**/*.md\" --ignore node_modules",
-    "lint:md:fix": "markdownlint \"**/*.md\" --ignore node_modules --fix",
-    "check": "npm run lint:md"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/move4mobile/copilot-workshop.git"
@@ -26,7 +22,6 @@
   },
   "homepage": "https://github.com/move4mobile/copilot-workshop#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.37.0",
     "prettier": "^3.5.3"
   }
 }
