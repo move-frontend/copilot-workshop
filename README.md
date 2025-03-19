@@ -114,7 +114,7 @@ The repository utilizes both GitHub Wiki for structured documentation and GitHub
 
 Workshop participants are encouraged to contribute their solutions, effective prompts, and insights to this repository. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## Resources
+## Additional Resources
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 - [Effective Prompting for GitHub Copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
