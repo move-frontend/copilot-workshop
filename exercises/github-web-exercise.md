@@ -141,3 +141,9 @@ Once you've completed this exercise:
 - Explore how Copilot on GitHub.com can enhance your team's collaboration
 - Provide feedback to your team on how Copilot enhances the GitHub experience
 - Combine GitHub web features with IDE features for a complete workflow
+
+## Next Steps
+
+- Check out the [GitHub Insights Prompts](./github-insights-prompts.md) for additional prompts focused on repository analysis and insights
+- Explore how Copilot on GitHub.com can enhance your team's collaboration
+- Combine GitHub web features with IDE features for a complete workflow

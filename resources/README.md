@@ -7,6 +7,7 @@ This directory provides supplementary resources and reference materials to help 
 | Resource                                        | Description                                                           | When to Use                                                                    |
 | ----------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Cheatsheet](./cheatsheet.md)                   | Quick reference for keyboard shortcuts, commands, and common patterns | When you need to quickly look up how to perform a specific action with Copilot |
+| [Available Models](./available-models.md)       | Overview of Copilot's AI models and their capabilities                | When selecting models for different tasks                                      |
 | [Effective Prompts](./effective-prompts.md)     | Guide with examples of effective prompting techniques                 | When crafting prompts for complex scenarios or troubleshooting suggestions     |
 | [Video References](./video-references.md)       | Curated collection of official tutorial videos                        | For visual learning or deeper understanding of specific features               |
 | [Real-World Examples](./real-world-examples.md) | Practical examples from actual development projects                   | To see how Copilot is applied in professional contexts                         |
