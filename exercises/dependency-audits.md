@@ -1,1 +1,0 @@
-        -- github actions / dependabot (https://github.blog/developer-skills/github/video-how-to-run-dependency-audits-with-github-copilot/)
