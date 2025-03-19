@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Workshop materials for learning GitHub Copilot features and best practices",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "format:md": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/move4mobile/copilot-workshop.git"

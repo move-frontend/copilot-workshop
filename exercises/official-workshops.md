@@ -13,6 +13,7 @@ GitHub currently offers three main workshop repositories that you can clone and 
 **Description**: Add features and unit tests to a Node.js calculator application using GitHub Copilot.
 
 **Skills practiced**:
+
 - JavaScript/Node.js development with Copilot
 - Adding new functionality to existing code
 - Writing unit tests with Copilot's assistance
@@ -25,6 +26,7 @@ GitHub currently offers three main workshop repositories that you can clone and 
 **Description**: Build a Rock Paper Scissors game from scratch using Python and GitHub Copilot.
 
 **Skills practiced**:
+
 - Python development with Copilot
 - Game logic implementation
 - Command-line interface design
@@ -37,6 +39,7 @@ GitHub currently offers three main workshop repositories that you can clone and 
 **Description**: Learn how to work with Infrastructure as Code (IaC) using Terraform and GitHub Copilot.
 
 **Skills practiced**:
+
 - Infrastructure as Code development
 - Terraform configuration creation
 - Cloud resource provisioning
@@ -58,6 +61,7 @@ Each workshop includes detailed setup guides and step-by-step exercises to help 
 ## Workshop Format
 
 The workshops typically follow this structure:
+
 - Setup instructions for your environment
 - Core exercises to learn basic concepts
 - Challenge exercises to extend your skills
