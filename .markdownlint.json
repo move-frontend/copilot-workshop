@@ -12,5 +12,9 @@
   "MD028": false,
   "no-blanks-blockquote": false,
   "MD047": false,
-  "single-trailing-newline": false
+  "single-trailing-newline": false,
+  "MD024": false,
+  "no-duplicate-heading": false,
+  "MD026": false,
+  "no-trailing-punctuation": false
 }
