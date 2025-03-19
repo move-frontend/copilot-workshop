@@ -50,12 +50,14 @@ The `setup-guides` directory contains instructions for getting started:
 
 ### Resources
 
-The `resources` directory contains additional learning materials:
+The `resources` directory contains valuable reference materials to enhance your Copilot skills:
 
-- **cheatsheet.md**: Quick reference for Copilot commands and techniques
-- **effective-prompts.md**: Collection of useful prompts for various development tasks
+- **cheatsheet.md**: Comprehensive quick reference with keyboard shortcuts, chat commands, prompting patterns, troubleshooting tips, and license tier feature comparisons. This printable guide covers everything from basic shortcuts to advanced model selection.
+- **effective-prompts.md**: Detailed guide to crafting effective prompts with dozens of real-world examples. Includes language-specific patterns, function implementations, multi-file workflows, and common troubleshooting approaches when Copilot isn't giving ideal results.
 - **video-references.md**: Links to official tutorial videos
 - **real-world-examples.md**: Examples from actual projects
+
+These resources are designed to be practical references you can return to regularly as you develop your Copilot skills.
 
 ## Getting Started
 
@@ -93,8 +95,8 @@ copilot-workshop/
 │   ├── github-exercises.md              # GitHub integration exercises
 │   └── dependency-audits.md             # GitHub Actions/Dependabot exercises
 ├── resources/                           # Reference materials
-│   ├── cheatsheet.md                    # Printable cheatsheet
-│   ├── effective-prompts.md             # Collection of useful prompts
+│   ├── cheatsheet.md                    # Comprehensive keyboard shortcuts and commands reference
+│   ├── effective-prompts.md             # Extensive collection of proven prompting techniques
 │   ├── video-references.md              # Links to official videos
 │   └── real-world-examples.md           # Examples from actual projects
 └── wiki-content/                        # Content for the GitHub Wiki
