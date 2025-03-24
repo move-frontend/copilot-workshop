@@ -16,7 +16,7 @@ This workshop provides a hands-on exploration of GitHub Copilot capabilities, fr
 
 This repository is organized into the following sections:
 
-### Exercises
+### [Exercises](exercises/)
 
 The `exercises` directory contains focused, hands-on activities to build practical skills with GitHub Copilot:
 
@@ -24,12 +24,12 @@ The `exercises` directory contains focused, hands-on activities to build practic
 - **chat-exercise.md**: Learn to effectively use Copilot Chat for problem-solving
 - **github-web-exercise.md**: Explore Copilot features integrated with GitHub.com
 - **github-exercises.md**: Practice GitHub-specific integrations with Copilot
-- **dependency-audits.md**: Use Copilot with GitHub Actions and Dependabot
+- **dependabot-exercise.md**: Use Copilot with GitHub Dependabot
 - **github-insights-prompts.md**: Ready-to-use prompts for repository analysis with Copilot
 
 Each exercise includes instructions and challenges designed to build proficiency with specific Copilot features.
 
-### Features
+### [Features](features/)
 
 The `features` directory provides comprehensive documentation on Copilot's capabilities:
 
@@ -41,7 +41,7 @@ The `features` directory provides comprehensive documentation on Copilot's capab
 
 The features directory includes its own README with a comprehensive features overview and use cases matrix.
 
-### Setup Guides
+### [Setup Guides](setup-guides/)
 
 The `setup-guides` directory contains instructions for getting started:
 
@@ -49,7 +49,7 @@ The `setup-guides` directory contains instructions for getting started:
 - **jetbrains.md**: JetBrains IDE configuration guide
 - **license-tiers.md**: Comprehensive breakdown of GitHub Copilot licensing options, from Free to Enterprise tiers
 
-### Resources
+### [Resources](resources/)
 
 The `resources` directory contains valuable reference materials to enhance your Copilot skills:
 
@@ -94,7 +94,7 @@ copilot-workshop/
 │   ├── chat-exercise.md                 # Using Copilot Chat effectively
 │   ├── github-web-exercise.md           # GitHub.com integration exercise
 │   ├── github-exercises.md              # GitHub integration exercises
-│   └── dependency-audits.md             # GitHub Actions/Dependabot exercises
+│   └── dependabot-exercise.md           # GitHub Dependabot exercises
 ├── resources/                           # Reference materials
 │   ├── cheatsheet.md                    # Comprehensive keyboard shortcuts and commands reference
 │   ├── effective-prompts.md             # Extensive collection of proven prompting techniques
