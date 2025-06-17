@@ -2,7 +2,6 @@
   "name": "copilot-workshop",
   "version": "1.0.0",
   "description": "Workshop materials for learning GitHub Copilot features and best practices",
-  "private": true,
   "scripts": {
     "format:md": "prettier --write \"**/*.md\"",
     "format:check": "prettier --check \"**/*.md\""
