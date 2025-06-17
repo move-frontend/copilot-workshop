@@ -47,7 +47,6 @@ The `setup-guides` directory contains instructions for getting started:
 
 - **vscode.md**: Detailed Visual Studio Code setup instructions
 - **jetbrains.md**: JetBrains IDE configuration guide
-- **license-tiers.md**: Comprehensive breakdown of GitHub Copilot licensing options, from Free to Enterprise tiers
 
 ### [Resources](resources/)
 
@@ -65,7 +64,6 @@ These resources are designed to be practical references you can return to regula
 1. Ensure you have [GitHub Copilot](https://github.com/features/copilot) enabled in your IDE
 2. Clone this repository to your local machine
 3. Review the setup guides in the `setup-guides` directory for your specific IDE
-   - Check `license-tiers.md` to understand the Copilot subscription options
    - Follow the setup instructions in `vscode.md` or `jetbrains.md`
 4. Explore the `features` directory to understand Copilot's capabilities
 5. Work through the exercises in the `exercises` directory
@@ -80,8 +78,7 @@ copilot-workshop/
 ├── README.md                            # Workshop overview and setup
 ├── setup-guides/                        # Setup instructions for different IDEs
 │   ├── vscode.md                        # VS Code setup guide
-│   ├── jetbrains.md                     # JetBrains setup guide
-│   └── license-tiers.md                 # Information about different tiers
+│   └── jetbrains.md                     # JetBrains setup guide
 ├── features/                            # Feature documentation and examples
 │   ├── README.md                        # Features overview and use cases
 │   ├── code-completions.md              # Basic code completion examples
