@@ -2,7 +2,7 @@
   "name": "copilot-workshop",
   "version": "1.0.0",
   "description": "Workshop materials for learning GitHub Copilot features and best practices",
-  "private": true,
+  "main": "README.md",
   "scripts": {
     "format:md": "prettier --write \"**/*.md\"",
     "format:check": "prettier --check \"**/*.md\""
@@ -16,15 +16,23 @@
     "copilot",
     "workshop",
     "ai",
-    "code-assistant"
+    "code-assistant",
+    "programming",
+    "education",
+    "tutorial",
+    "artificial-intelligence",
+    "developer-tools"
   ],
   "author": "Michael Schilling & Cas van Dinter",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/move4mobile/copilot-workshop/issues"
   },
   "homepage": "https://github.com/move4mobile/copilot-workshop#readme",
   "devDependencies": {
     "prettier": "^3.5.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
