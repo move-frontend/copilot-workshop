@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/move4mobile/copilot-workshop#readme",
   "devDependencies": {
-    "prettier": "^3.8.1"
+    "prettier": "^3.8.3"
   },
   "engines": {
     "node": ">=14.0.0"
